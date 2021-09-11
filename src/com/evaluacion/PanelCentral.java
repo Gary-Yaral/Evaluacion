@@ -10,7 +10,7 @@ public class PanelCentral extends javax.swing.JFrame {
         salida.setText("");
         salida1.setText("");
         salida2.setText("");
-        salida3.setText("");
+ 
     }
 
     /**
